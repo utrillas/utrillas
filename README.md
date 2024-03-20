@@ -1,6 +1,6 @@
-<div style="backgraound-color: #9370DB; padding: 100px; font-size: 30px;">
-### Hola Soy Carmen Utrillas 👋
-</div>
+
+# Hola Soy Carmen Utrillas 👋
+
 
 Soy una desarrolladora back-end junior de Alicante(Comunidad Valenciana/ España). 
 He estado aprendiendo distintos lenguajes como son C#, Kotlin, java y Python
