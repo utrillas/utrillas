@@ -10,7 +10,7 @@ Soy una persona constante y con gran iniciativa. Soy emprendora, apasiona, se tr
 Os dejo una pequeña muestra de mis proyectos, que iré mejorandolos, además de desarrollar nuevos.
 
 
-##Podeis encontrarme en:
+## Podeis encontrarme en:
 
 - [LinkedIn] (www.linkedin.com/in/carmenutrillas)
 <!--
