@@ -1,4 +1,4 @@
-<div style="backgraound-color: #9370DB; padding: 100px;">
+<div style="backgraound-color: #9370DB; padding: 100px; font-size: 30px;">
 ### Hola Soy Carmen Utrillas 👋
 </div>
 <!--
