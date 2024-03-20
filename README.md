@@ -1,6 +1,18 @@
 <div style="backgraound-color: #9370DB; padding: 100px; font-size: 30px;">
 ### Hola Soy Carmen Utrillas 👋
 </div>
+
+Soy una desarrolladora back-end junior de Alicante(Comunidad Valenciana/ España). 
+He estado aprendiendo distintos lenguajes como son C#, Kotlin, java y Python
+
+Soy una persona constante y con gran iniciativa. Soy emprendora, apasiona, se trabajar en equipo y me involucro al 100% en lo que hago.
+
+Os dejo una pequeña muestra de mis proyectos, que iré mejorandolos, además de desarrollar nuevos.
+
+
+##Podeis encontrarme en:
+
+- [LinkedIn] (www.linkedin.com/in/carmenutrillas)
 <!--
 **utrillas/utrillas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
