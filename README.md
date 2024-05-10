@@ -3,7 +3,9 @@
 
 
 Soy una desarrolladora back-end junior de Alicante(Comunidad Valenciana/ España). 
-He estado aprendiendo distintos lenguajes como son C#, Kotlin, java y Python
+He estado aprendiendo distintos lenguajes como son C#, Kotlin, java y Python.
+
+Aprendiendo en estos momentos Delphi como parte de crecimiento en el desarrolo de Interfaces.
 
 Soy una persona constante y con gran iniciativa. Soy emprendora, apasiona, se trabajar en equipo y me involucro al 100% en lo que hago.
 
